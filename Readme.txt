@@ -1,4 +1,4 @@
-**My PortfolioWebsite**
+The School Timetable Management System
 
 This is a personal portfolio website showcasing my skills, projects, and experience. The website is built using HTML, CSS, and JavaScript.
 
